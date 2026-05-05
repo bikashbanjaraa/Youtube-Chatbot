@@ -13,15 +13,15 @@ It allows users to:
 
 ## 🚀 Features
 
-✅ Extracts transcript from YouTube videos  
-✅ Splits transcript into meaningful chunks with timestamps  
-✅ Creates embeddings using OpenAI  
-✅ Stores embeddings in Chroma vector database  
-✅ Uses RAG (Retrieval-Augmented Generation) for answering  
-✅ Supports:
-- Normal Q&A
-- Summarization questions  
-✅ Displays **timestamp-based sources**
+- Extracts transcript from YouTube videos  
+- Splits transcript into meaningful chunks with timestamps  
+- Creates embeddings using OpenAI  
+- Stores embeddings in Chroma vector database  
+- Uses RAG (Retrieval-Augmented Generation) for answering  
+- Supports:
+-- Normal Q&A
+-- Summarization questions  
+-- Displays **timestamp-based sources**
 
 ---
 
@@ -49,4 +49,5 @@ It allows users to:
 
 ---
 
-## 📂 Project Structure
+<img width="1266" height="651" alt="Screenshot from 2026-04-28 16-47-39" src="https://github.com/user-attachments/assets/c09508ba-2fdc-4878-b12c-75d6bf4b0705" />
+
